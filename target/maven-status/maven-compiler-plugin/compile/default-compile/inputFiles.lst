@@ -1,0 +1,9 @@
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/controller/MainController.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/model/Playlist.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/service/MusicPlayerService.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/dao/PlaylistDAO.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/util/DBConnection.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/dao/SongDAO.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/TestAudio.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/model/Song.java
+/home/gopalakrishna/Documents/SkillUpJavaProjects/MusicPlayer2/src/main/java/com/musicplayer/Main.java

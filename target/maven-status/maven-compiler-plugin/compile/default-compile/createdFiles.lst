@@ -1,0 +1,9 @@
+com/musicplayer/Main.class
+com/musicplayer/util/DBConnection.class
+com/musicplayer/controller/MainController.class
+com/musicplayer/model/Playlist.class
+com/musicplayer/TestAudio.class
+com/musicplayer/dao/SongDAO.class
+com/musicplayer/service/MusicPlayerService.class
+com/musicplayer/dao/PlaylistDAO.class
+com/musicplayer/model/Song.class
